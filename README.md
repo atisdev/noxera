@@ -94,7 +94,7 @@ Személyzeti törzsadatok: név, azonosítószám, e-mail, órabér, profilkép,
 
 **Értékelések** (`ertekelesek.php`) — személyzeti teljesítményértékelés rögzítése és naplója. Külső értékelőlink: `review/index.php`.
 
-**Riportok & Üzemofal** (`report.php`, `uzemofal.php`) — napi/heti riportok tag-eléssel, nyitott/lezárt státusszal; az üzemofal egy nézetben mutatja a nyitott riportokat és friss közleményeket.
+**Riportok & Üzenofal** (`report.php`, `uzenofal.php`) — napi/heti riportok tag-eléssel, nyitott/lezárt státusszal; az üzemofal egy nézetben mutatja a nyitott riportokat és friss közleményeket.
 
 ### Felhasználókezelés (`admin/felhasznalok.php`)
 
